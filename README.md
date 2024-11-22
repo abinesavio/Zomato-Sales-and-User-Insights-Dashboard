@@ -1,8 +1,3 @@
-# Zomato-Sales-and-User-Insights-Dashboard
-Here is a sample **README.md** file for a Zomato-related project. This assumes the project involves analyzing or visualizing Zomato data.
-
----
-
 # Zomato Data Analysis and Visualization Dashboard  
 
 ## Overview  
@@ -68,7 +63,8 @@ The dataset is sourced from Zomato's API and contains information on:
 
 ## Dashboard Access  
 - **Live Dashboard:**  
-  Access the live interactive dashboard [here](#).  
+  Access the live interactive dashboard [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTUyYmMyOWMtMzlmYS00MjFlLWI4NjgtYjhmMWUwNTU1MzA0IiwidCI6ImE5NmMxNTJkLTc3NjctNDViYi04YWFiLTJiMWQ4OTg3Yjg2YyJ9)
+
 
 - **PDF Version:**  
   A snapshot of the dashboard is available in PDF format for offline reference.  
